@@ -15,6 +15,8 @@ Welcome to sphinx-test's documentation!
 
 Add some content here
 
+One more test
+
 Indices and tables
 ==================
 
